@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Readme: akdom edit kora direct copy paste koris mui correction kornu.
 
 
@@ -353,3 +354,7 @@ The authors and contributors:
 •⁠  ⁠are not responsible for losses resulting from the use of this code
 
 Use this software and any deployed contracts *at your own risk*.
+=======
+# MyToken
+A secure and customizable ERC20 token smart contract for the Ethereum blockchain.
+>>>>>>> 9e5a268b50299df77a69105c537507d221fbf6ff

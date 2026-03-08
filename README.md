@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-Readme: akdom edit kora direct copy paste koris mui correction kornu.
-
-
 # ERC20 Standard  Token
 
 A fully tested ERC20 token smart contract built with Hardhat, supporting multi-network deployment on Ethereum and BNB Chain. Includes standard ERC20 features, ownership control, and scripts for deployment, verification, and testing.
